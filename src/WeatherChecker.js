@@ -104,6 +104,7 @@ function WeatherChecker(){
         settempmax('');
         setpressure('');
         setcityname('');
+        setSuggestions([]);
       }
 
      
