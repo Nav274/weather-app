@@ -104,6 +104,8 @@ function WeatherChecker(){
         settempmax('');
         setpressure('');
         setcityname('');
+        setSuggestions([]);
+
       }
 
      
@@ -179,10 +181,9 @@ return(
     <tr><td>Atmospheric Pressure  </td> <td> {pressure?pressure +' hPa':""} </td></tr>
     </table>
 
-   
 <footer>
-    <p>Developed by <a href="https://www.linkedin.com/in/naveen274/" target="_blank">V Naveen</a></p>
-    <p>Github link <a href="https://github.com/Nav274" target="_blank">Nav274</a></p>
+  <p>Developed by <a href="https://www.linkedin.com/in/naveen274/" rel="noreferrer" target="_blank">V Naveen</a></p>
+  <p>Github link <a href="https://github.com/Nav274" rel="noreferrer" target="_blank">Nav274</a></p>
 </footer>
 
 </div>
