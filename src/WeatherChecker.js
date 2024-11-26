@@ -105,10 +105,6 @@ function WeatherChecker(){
         setpressure('');
         setcityname('');
         setSuggestions([]);
-<<<<<<< HEAD
-
-=======
->>>>>>> a17cad0865b85ce81350c0d4b7946fb549870e37
       }
 
      
